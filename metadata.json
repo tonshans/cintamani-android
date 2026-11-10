@@ -1,0 +1,6 @@
+{
+  "name": "Cintamani Capture",
+  "description": "Zero-friction cognitive offloading capture node with Cognitive Neo-Brutalism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
